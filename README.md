@@ -1,4 +1,4 @@
-# ![Logo](./imagenes/ProData_Consulting_Logo.png)  ProData Consulting x Starbucks USA
+# ![Logo](./imagenes/logo_final.jpeg)  ProData Consulting x Starbucks USA
 
   
 ## Descripción del Proyecto
