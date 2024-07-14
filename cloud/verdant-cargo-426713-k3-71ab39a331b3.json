@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "verdant-cargo-426713-k3",
+  "private_key_id": "71ab39a331b3805572137ad1479da4f95da80bba",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCzS8dXhWo18TrH\np/1+6ypnlfGroeB+khTzAU0qToNOPuyC6qYUbyYKjK5swBEjQcj2MQEKSsLfaLaO\nFUDuPwkqmgV+XfZ93vBFQEbEVf6HJ39pHV4wV2vv/O8B6GcGi3KPUiUqeGSbGZ+a\np3gl0yujgJhWl11wXDrlLqBNmis/DWsdV5FBTRXRUv3h+UQdifzvvDzSxo/vC/a7\nUwftftQ/80p0Fmjir5ZfuD4UBanXfXX7ilRapjqUnBl1JgEUnTBV/GtMmWBjQ00U\nZ32TbFqFmgBFI2k1mm3rYpNRNXfO9su3SEGrJLwn1+d8r9HXbiDaUSLFHsoId6Wh\nyXUZiB+RAgMBAAECggEABUg6fXTYAfJTJ74mfPZ7J5WWitaoSTpPBTC44AHzotq+\nN4YnserrXTyzR89pwdbmj4A2lmHI93F7jViJcutm/vsOJeCpSiCHBhdEbnTVHJC4\nk3VyyKxOqQGT3gPFgz8Y9yl1oFhvKFWbKuB7rOuZecXoVwa7ETwaXRWgUeD0nLUg\n+xFhZUzfYgktqJEigo4NV9zkJwGocPGvkpjAj22itjV4FO7PTFi2EuWk7t2/6xrq\nHpaNudVOqlLGsuS730eHYOy/EenFRzb2S86cBhDRnMEg5oMmZJvB7R90B6WBPr/J\nSSSFNxERuAFBdLzGWZ6L7tRU8hytcsYSdUYeOkgFVQKBgQD4lbZCCzGZxdY48dpn\nWnnu2owzzrC2i5nImUdELA+NUhomGiWzUDpH35AItm7yx21x7pTkMj7fjiKWerbo\nZ51OwPftC7s6ad6EHtQdfOa/NSQcYuWx4/L2kb5f7IuD0UCEDjvIreBMwn1fFoYe\nq+xjQqVxRbPw4vuziOij9hCLdQKBgQC4pPN8zHaM3Ogb6xOMfHMlqX4hGEOqkgBy\nthtjvF7IuR6MSFHvIQaBGlTZDDhORNKhK6nrSJX2I6+BoT4JILLCMoTgBKBV6GPj\neZUfGF2sV7AcN1uYQid6amWhdrEPosAew/UOV2y0d0o6s6G3XFBgbjvqc/cOH3tR\ne9BompmsLQKBgQC3+GSYYBxnR4kRP7x5PPZ8lPWp6c/SaWJ4mSerBkjEN/zuMe+w\n0zEuu/+m0w0tU/ZlmUJL1/u8Cz8ByvPO78/11s4lescnpe5uLTqiUCudWsDM2UxQ\n6PiJDrer2i4uchCjKr2H+VbEuDN8yficfnRFya8TM5jGL9ZDupEhtxvreQKBgEP2\n23UVYZGqAnm8Rp7QdCXpxHZ0Evwm76lJpL1Kae0iTr8+I4KMunMs+QxHdjZBGPKg\nOtRTDHfkXMavTkFX2tSmechni4jzmEjzyNMASgKU6EsKiVl7CEMEBNKw+K2Tr3nj\nkUEtJuMqgZUn55+xiBhmmwFKnCaDqgWtOGI4fdYlAoGAAQGQVe5lY2a7dqI/ru5A\nN8XIA/O5gLSSknJ/F4flat26kwwgs7sexVemFfZy+yQPy0x7EFwFO35N8tYN5Wb3\niMMi2AXySO55X+EZ+GjhK68nNsnovy2RnafO6d9rnOJKrKEiuWjPqz83vcSRNT4s\npyalParbk0mJa+fbU7Bzxkk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "big-query@verdant-cargo-426713-k3.iam.gserviceaccount.com",
+  "client_id": "104851651746357595850",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/big-query%40verdant-cargo-426713-k3.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
